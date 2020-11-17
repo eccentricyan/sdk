@@ -6,5 +6,5 @@ target 'sdk' do
   use_frameworks!
 
   # Pods for sdk
-  pod "sdk", :git => 'git@github.com:eccentricyan/all.git'
+  pod "sdk", :git => 'git@github.com:eccentricyan/sdk.git'
 end
